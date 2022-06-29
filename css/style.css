@@ -1,0 +1,39 @@
+.navbar{
+    padding: 3%;
+    margin: 5px;
+    height: 100px;
+    
+
+}
+
+.navbar:hover{
+    background-color:rgb(190, 39, 39);
+}
+
+.dropdown-menu{
+    color: rgb(39, 34, 34);
+    
+
+}
+ .container{
+    margin-top: 5%;
+
+ }
+
+ .petit{
+    overflow-wrap: normal;
+ }
+
+ .petit img{
+    transition: all 1.5s ;
+
+
+ }
+
+ .petit:hover img{
+    transform: scale(1.5);
+ }
+
+   
+    
+    
